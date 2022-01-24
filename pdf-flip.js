@@ -98,7 +98,7 @@
 
                             event.preventDefault();
                         }
-                        PdfFlip.startTurnSound();
+                        //PdfFlip.startTurnSound();
                         PdfFlip.currentPage = page;
                         PDFViewerApplication.page = page;
                     },
